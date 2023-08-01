@@ -1,0 +1,7 @@
+1)to list tags 
+
+. list tag
+
+2) delete locally : git tag -d v1.7
+
+delete remotely: git push --delete origin v1.7
