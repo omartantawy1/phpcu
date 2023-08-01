@@ -1,0 +1,12 @@
+1) removing it locally
+
+first go the the branch you want to delete :
+
+.git checkout dev
+.git branch -d dev
+
+2) removing it remotely :
+
+.git push --delete dev
+
+
